@@ -1,5 +1,7 @@
 # SchoolManagement
 School Management Backend code using DRF
+
+
 You can run the project by :
 1. Using the virtual environment through the command **source /home/button_chicken/Desktop/SchoolManagement/env/bin/activate** (you can change the path accordingly)
 2. Installing the dependencies using **pip3 install -r requirements.txt**
